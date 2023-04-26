@@ -1,0 +1,166 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+
+
+/* ---------------------------------------------------------------------------------------------------- Nav Bar  */
+
+
+.navbar{
+    background-color: white;
+}
+
+.nav-logo{
+    width: 120px;
+}
+
+
+
+/* ---------------------------------------------------------------------------------------------------- Nav Bar  */
+
+
+/* ---------------------------------------------------------------------------------------------------- Image Slider  */
+
+
+
+
+.slide1{
+    background-image: url("/Images/pexels-proxyclick-visitor-management-system-2451622-scaled.jpg");
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+    padding: 250px 200px;
+    
+}
+
+
+.slide2{
+    background-image: url("/Images/pexels-rfstudio-3825569-scaled.jpg");
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+    padding: 250px 200px;
+    
+}
+
+
+.slide3{
+    background-image: url("/Images/pexels-ekrulila-2292837-scaled.jpg");
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+    padding: 250px 200px;
+    
+}
+
+.slide4{
+    background-image: url("/Images/pexels-andrea-piacquadio-3755494-scaled.jpg");
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+    padding: 250px 200px;
+    
+}
+
+.slide5{
+    background-image: url("/Images/pexels-julia-m-cameron-4145153-scaled.jpg");
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+    padding: 250px 200px;
+    
+}
+
+
+/* ---------------------------------------------------------------------------------------------------- Image Slider  */
+
+
+
+/* ---------------------------------------------------------------------------------------------------- Footer  */
+
+.footTop{
+    background-color: #54595f;
+    padding:  70px 100px  70px 100px;
+}
+
+/* ---------------------------------------------------------------------------------------------------- Footer  */
+
+
+/* ---------------------------------------------------------------------------------------------------- About  */
+
+.fs-text-div{
+    background-color: #d4d4d4;
+}
+
+.text-para{
+
+    color: #215387;
+    font-size: 16px;
+    line-height: 35px;
+}
+
+
+.ss-overlay{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.452);
+}
+
+
+.ss-image{
+    background-image: url("/Images/pexels-george-milton-7014337-scaled.jpg");
+    background-size: cover;
+    padding: 0px;
+    margin-bottom: 100px;
+}
+
+
+/* ---------------------------------------------------------------------------------------------------- About  */
+
+/* ----------------------------------------------------------------------------------------------------Safety  */
+
+
+.safety-ss-image{
+    background-image: url("/Images/pexels-andrea-piacquadio-3813341-scaled-e1678512269532.jpg");
+    background-size: cover;
+    padding: 0px;
+    margin-bottom: 100px;
+}
+
+
+/* ----------------------------------------------------------------------------------------------------Safety  */
+
+/* ----------------------------------------------------------------------------------------------------digital  */
+
+
+.digital-ss-image{
+    background-image: url("/Images/pexels-karolina-grabowska-4467687-scaled.jpg");
+    background-size: cover;
+    padding: 0px;
+    margin-bottom: 100px;
+}
+
+
+/* ----------------------------------------------------------------------------------------------------digital  */
+
+/* ----------------------------------------------------------------------------------------------------Cards  */
+
+.crdtxt{
+    line-height: 30px;
+    color: #a9b0c2;
+}
+
+/* ----------------------------------------------------------------------------------------------------Cards  */
+
+
+
+
+
+
+
+
+
+
